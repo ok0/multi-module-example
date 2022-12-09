@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da6da379-8d2b-4745-98fb-1e2c92057cbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="da6da379-8d2b-4745-98fb-1e2c92057cbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +104,7 @@
       <recent name="kr.co.ok0.v1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ApplicationKt">
+  <component name="RunManager" selected="Kotlin.ApplicationKt (1)">
     <configuration name="multi-module-example [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -170,6 +168,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ApplicationKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.co.ok0.ApplicationKt" />
+      <module name="multi-module-example.multi-module-api.multi-module-api-product.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.co.ok0.ApplicationKt" />
       <module name="multi-module-example.multi-module-api.multi-module-api-member.main" />
@@ -179,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ApplicationKt (1)" />
         <item itemvalue="Kotlin.ApplicationKt" />
         <item itemvalue="Gradle.multi-module-example [clean]" />
         <item itemvalue="Gradle.multi-module-example:multi-module-api:multi-module-api-product [clean]" />
