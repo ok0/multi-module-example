@@ -6,7 +6,7 @@ Gradle & Spring Boot 멀티 모듈 예제.
 # Gradle을 이용한 Multi Module 만들기
 ## Overview
 3개의 hierarchy(계층)를 갖는 멀티 프로젝트를 구성합니다.
->- Root Module
+- Root Module
 - API
     + Member API
     + Product API
